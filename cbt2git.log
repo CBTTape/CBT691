@@ -1,0 +1,9 @@
+2023-04-03 02:00:29.466770 - Initialized conversion of CBT691
+2023-04-03 02:00:29.539984 - Received CBT.V504.FILE691.PDS from FILE691.XMI 
+2023-04-03 02:00:29.542782 - Found $$$#DATE.txt (text/plain) in CBT.V504.FILE691.PDS, moved to PDS/$$$#DATE
+2023-04-03 02:00:29.543919 - Found $$DOC.txt (text/plain) in CBT.V504.FILE691.PDS, moved to PDS/$$DOC
+2023-04-03 02:00:29.545044 - Found @FILE691.txt (text/plain) in CBT.V504.FILE691.PDS, moved to PDS/@FILE691
+2023-04-03 02:00:29.546092 - Found AMISPECL.txt (text/plain) in CBT.V504.FILE691.PDS, moved to PDS/AMISPECL
+2023-04-03 02:00:29.547058 - Found LBC.txt (text/plain) in CBT.V504.FILE691.PDS, moved to PDS/LBC
+2023-04-03 02:00:29.548176 - Found RANDSEQ.txt (text/plain) in CBT.V504.FILE691.PDS, moved to PDS/RANDSEQ
+2023-04-03 02:00:29.549288 - Found READBC.txt (text/plain) in CBT.V504.FILE691.PDS, moved to PDS/READBC
