@@ -1,0 +1,8 @@
+2025-04-13 21:50:30.972087 - Received CBT.V508.FILE691.PDS from FILE691.XMI 
+2025-04-13 21:50:30.972972 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE691.PDS, moved to PDS/$$$#DATE
+2025-04-13 21:50:30.973061 - Found $$DOC.txt (text/plain) in CBT.V508.FILE691.PDS, moved to PDS/$$DOC
+2025-04-13 21:50:30.973124 - Found @FILE691.txt (text/plain) in CBT.V508.FILE691.PDS, moved to PDS/@FILE691
+2025-04-13 21:50:30.973185 - Found AMISPECL.txt (text/plain) in CBT.V508.FILE691.PDS, moved to PDS/AMISPECL
+2025-04-13 21:50:30.973244 - Found LBC.txt (text/plain) in CBT.V508.FILE691.PDS, moved to PDS/LBC
+2025-04-13 21:50:30.973341 - Found RANDSEQ.txt (text/plain) in CBT.V508.FILE691.PDS, moved to PDS/RANDSEQ
+2025-04-13 21:50:30.973410 - Found READBC.txt (text/plain) in CBT.V508.FILE691.PDS, moved to PDS/READBC
