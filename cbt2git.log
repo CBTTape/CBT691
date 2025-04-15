@@ -1,8 +1,8 @@
-2025-04-15 04:47:26.801964 - Received CBT.V508.FILE691.PDS from FILE691.XMI 
-2025-04-15 04:47:26.803036 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE691.PDS, moved to PDS/$$$#DATE
-2025-04-15 04:47:26.803467 - Found $$DOC.txt (text/plain) in CBT.V508.FILE691.PDS, moved to PDS/$$DOC
-2025-04-15 04:47:26.803796 - Found @FILE691.txt (text/plain) in CBT.V508.FILE691.PDS, moved to PDS/@FILE691
-2025-04-15 04:47:26.804135 - Found AMISPECL.txt (text/plain) in CBT.V508.FILE691.PDS, moved to PDS/AMISPECL
-2025-04-15 04:47:26.804467 - Found LBC.txt (text/plain) in CBT.V508.FILE691.PDS, moved to PDS/LBC
-2025-04-15 04:47:26.805296 - Found RANDSEQ.txt (text/plain) in CBT.V508.FILE691.PDS, moved to PDS/RANDSEQ
-2025-04-15 04:47:26.805685 - Found READBC.txt (text/plain) in CBT.V508.FILE691.PDS, moved to PDS/READBC
+2025-04-15 23:26:46.168236 - Received CBT.V508.FILE691.PDS from FILE691.XMI 
+2025-04-15 23:26:46.169519 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE691.PDS, moved to PDS/$$$#DATE
+2025-04-15 23:26:46.169744 - Found $$DOC.txt (text/plain) in CBT.V508.FILE691.PDS, moved to PDS/$$DOC
+2025-04-15 23:26:46.169795 - Found @FILE691.txt (text/plain) in CBT.V508.FILE691.PDS, moved to PDS/@FILE691
+2025-04-15 23:26:46.169983 - Found AMISPECL.txt (text/plain) in CBT.V508.FILE691.PDS, moved to PDS/AMISPECL
+2025-04-15 23:26:46.170201 - Found LBC.txt (text/plain) in CBT.V508.FILE691.PDS, moved to PDS/LBC
+2025-04-15 23:26:46.170885 - Found RANDSEQ.txt (text/plain) in CBT.V508.FILE691.PDS, moved to PDS/RANDSEQ
+2025-04-15 23:26:46.171264 - Found READBC.txt (text/plain) in CBT.V508.FILE691.PDS, moved to PDS/READBC
